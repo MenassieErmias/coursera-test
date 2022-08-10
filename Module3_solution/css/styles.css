@@ -1,0 +1,59 @@
+body{
+    font-size: 16px;
+}
+#header-nav{
+    background-color: #7a0002;
+    border: none;
+    border-radius: 0;
+}
+#title-link{
+    margin-top: 0;
+}
+.navbar.container-fluid.navbar-header#navbar-brand{
+    margin-top: 0;
+}
+#navbar-brand h1{
+    font-size: 1.4em;
+    padding: 0;
+    margin: 0;
+    color: #fff;
+}
+#navbar-brand a:hover{
+ text-decoration: none;
+}
+#collapsing-menu li a{
+    background-color: #555;
+    color: #FFF;
+    border-radius: 15px;
+    border: 1px solid #FF1;
+}
+#nav-list{
+    margin-top: 10px;
+}
+#nav-list a{
+    text-align: center;
+}
+
+.title-1{
+    background-color: #bf9000;
+    margin-top: 0;
+    
+}
+.title-2{
+    background-color: yellowgreen;
+    margin-top: 0;
+}
+.title-3{
+    background-color: gold;
+    margin-top: 0;
+}
+.description{
+    
+    color: #FFF;
+    height: 1000px;
+    margin: 10px 10px 0;
+}
+#injera-section, #chicken-section, #ramen-section{
+    background-color: #7a0002;
+    margin-bottom: 20px;
+}
